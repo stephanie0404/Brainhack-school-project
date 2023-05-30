@@ -1,2 +1,3 @@
 The descriptions: https://github.com/norahollenstein/cognitiveNLP-dataCollection/wiki/Electroencephalography-(EEG)#eeg-datasets-for-nlp
 The dataset: https://figshare.com/s/688e387fbfdc000f4e90
+The paper referencing this dataset: https://www.sciencedirect.com/science/article/pii/S2352340918314379?via%3Dihub
