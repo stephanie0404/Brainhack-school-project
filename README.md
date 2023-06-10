@@ -77,19 +77,19 @@ Also, we initially intended to analyse the data of more than one participant in 
 #### Figures and Plots
 
 ##### Preprocessing
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_pre_filtered.png" alt="Unfiltered Cz Channel during 1 second epoch" width="300" height="200"> Unfiltered Cz Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_pre_filtered.png" alt="Unfiltered Cz Channel during 1 second epoch" width="300"> Unfiltered Cz Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_filtered.jpg" alt="Filtered Cz Channel during 1 second epoch" width="300" height="200"> Filtered Cz Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_filtered.jpg" alt="Filtered Cz Channel during 1 second epoch" width="300"> Filtered Cz Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_pre_filtered.png" alt="Unfiltered F3 Channel during 1 second epoch" width="300" height="200"> Unfiltered F3 Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_pre_filtered.png" alt="Unfiltered F3 Channel during 1 second epoch" width="300"> Unfiltered F3 Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_filtered.jpg" alt="Filtered F3 Channel during 1 second epoch" width="300" height="200"> Filtered F3 Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_filtered.jpg" alt="Filtered F3 Channel during 1 second epoch" width="300"> Filtered F3 Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/pre_filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the unfiltered EEG" width="300" height="200"> Power Spectral Density (PSD) plot for the unfiltered EEG.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/pre_filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the unfiltered EEG" width="300"> Power Spectral Density (PSD) plot for the unfiltered EEG.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the filtered EEG" width="300" height="200"> Power Spectral Density (PSD) plot for the filtered EEG.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the filtered EEG" width="300"> Power Spectral Density (PSD) plot for the filtered EEG.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/sensors_montage.png" alt="EEG cap sensor positions" width="300" height="200"> EEG cap sensor positions.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/sensors_montage.png" alt="EEG cap sensor positions" width="300"> EEG cap sensor positions.
 
 ##### Machine Learning
 
