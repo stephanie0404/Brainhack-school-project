@@ -75,8 +75,7 @@ Also, we initially intended to analyse the data of more than one participant in 
 ### Results
 
 #### Figures and Plots
-
-![Filtered Cz Channel during 1 second epoch](https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_filtered.jpg)
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_filtered.jpg" alt="Filtered Cz Channel during 1 second epoch" width="300" height="200">
 
 You are currently reading the report template! I will let you judge whether it is useful or not. If you think there is something that could be improved, please do not hesitate to open an issue [here](https://github.com/PSY6983-2021/project_template/issues/) and let us know.
 
