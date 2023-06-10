@@ -75,9 +75,23 @@ Also, we initially intended to analyse the data of more than one participant in 
 ### Results
 
 #### Figures and Plots
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_filtered.jpg" alt="Filtered Cz Channel during 1 second epoch" width="300" height="200">
 
-You are currently reading the report template! I will let you judge whether it is useful or not. If you think there is something that could be improved, please do not hesitate to open an issue [here](https://github.com/PSY6983-2021/project_template/issues/) and let us know.
+##### Preprocessing
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_pre_filtered.png" alt="Unfiltered Cz Channel during 1 second epoch" width="300" height="200"> Unfiltered Cz Channel during 1 second epoch.
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_filtered.jpg" alt="Filtered Cz Channel during 1 second epoch" width="300" height="200"> Filtered Cz Channel during 1 second epoch.
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_pre_filtered.png" alt="Unfiltered F3 Channel during 1 second epoch" width="300" height="200"> Unfiltered F3 Channel during 1 second epoch.
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_filtered.jpg" alt="Filtered F3 Channel during 1 second epoch" width="300" height="200"> Filtered F3 Channel during 1 second epoch.
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/pre_filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the unfiltered EEG" width="300" height="200"> Power Spectral Density (PSD) plot for the unfiltered EEG.
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the filtered EEG" width="300" height="200"> Power Spectral Density (PSD) plot for the filtered EEG.
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/sensors_montage.png" alt="EEG cap sensor positions" width="300" height="200"> EEG cap sensor positions.
+
+##### Machine Learning
 
 #### Discussion
 
