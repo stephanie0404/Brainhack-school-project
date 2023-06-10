@@ -68,28 +68,19 @@ Also, we initially intended to analyse the data of more than one participant in 
 
 ### Tools I learned during this project
 
- * **Meta-project** P Bellec learned how to do a meta project for the first time, which is developping a framework while using it at the same time. It felt really weird, but somehow quite fun as well.
- * **Github workflow-** The successful use of this template approach will demonstrate that it is possible to incorporate dozens of students presentation on a website collaboratively over a few weeks.
- * **Project content** Through the project reports generated using the template, it is possible to learn about what exactly the brainhack school students are working on.
+ * **MNE Python** We learnt how to filter raw EEG data during the preprocessing stage, as well as how to import EEG data even if not in a recognised standard raw format.
+ * **Github workflow-** We got well-acquainted with using Git via the Bash terminal, and also some related tools like Datalad and Git LFS (Large File System).
+ * **Bash Terminal** We gained a good understanding of how to use the Bast erminal in lieu of File Explorer (Windows)/Finder (Mac).
 
 ### Results
 
-#### Deliverable 1: report template
+#### Figures and Plots
+
+[Filtered Cz Channel during 1 second epoch](https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_filtered.jpg)
 
 You are currently reading the report template! I will let you judge whether it is useful or not. If you think there is something that could be improved, please do not hesitate to open an issue [here](https://github.com/PSY6983-2021/project_template/issues/) and let us know.
 
-#### Deliverable 2: project gallery
-
-You can check out the [2020 BrainHack School project gallery](https://psy6983.brainhackmtl.org/project/)
-
-##### ECG pupilometry pipeline by Marce Kauffmann
-
-The repository of this project can be found [here](https://github.com/mtl-brainhack-school-2019/ecg_pupillometry_pipeline_kaufmann). The objective was to create a processing pipeline for ECG and pupillometry data. The motivation behind this task is that Marcel's lab (MIST Lab @ Polytechnique Montreal) was conducting a Human-Robot-Interaction user study. The repo features:
- * a [video introduction](http://www.youtube.com/watch/8ZVCNeX42_A) to the project.
- * a presentation [made in a jupyter notebook](https://github.com/mtl-brainhack-school-2019/ecg_pupillometry_pipeline_kaufmann/blob/master/BrainHackPresentation.ipynb) on the results of the project.
- * Notebooks for all analyses.
- * Detailed requirements files, making it easy for others to replicate the environment of the notebook.
- * An overview of the results in the markdown document.
+#### Discussion
 
 ##### Other projects
 Here are other good examples of repositories:
