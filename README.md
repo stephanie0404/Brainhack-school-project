@@ -47,14 +47,16 @@ The project relied on the following tools:
 
 The data we used comes from a project titled <a href="" target="blank"><b>Data in Brief: Multimodal Duolingo Bio-Signal Dataset</b></a> by Notaro & Diamond (2018; click <a href="https://doi.org/10.1016/j.dib.2018.11.044" target="blank">here</a> for the corresponding article). As suggested by the title, this is a multimodal dataset. Four kinds of data were recorded: (1) EEG via a low-cost OpenBCI electrode cap, (2) Gazepoint-GP3 eye-tracking, (3) Autohotkey cursor movements and clicks, and (4) Autohotkey screen content data (screenshots taken when a click occurs). Data was recorded while participants (n = 22) were completing beginner German language lessons on the desktop version of Duolingo. Participants were either English native speakers or fluent in English.
 
-Our project focused on (1) and (4), that is, the EEG and screenshot data.
+Our project focused on (1) and (4), that is, the EEG and screenshot data. In particular, we analyse only the data of participant 1.
 
 ### Deliverables
 
-At the end of this project, we will have:
- - The current markdown document, completed and revised.
- - A gallery of the student projects at Brainhack 2020.
- - Instructions on the website about how to submit a pull request to the [brainhack school website](https://github.com/PSY6983-2021) in order to add the project description to the website.
+At the end of this project, these files will be available:
+ * A .txt file (data_labels_raw.txt) containing manually selected filenames (timestamps) of the screenshots corresponding to when the participant receives feedback on their Duolingo performance.
+ * An R script (data_labels.r) for cleaning the raw filenames list (data_labels_raw.txt) into machine-readable format (data_labels_clean.txt).
+ * A Jupyter notebook containing Python script for preprocessing the OpenBCI EEG data (high and low pass filtering).
+ * An R script (data_labelling.r) for combining the filtered EEG data with the data_labels_clean.txt file.
+ * A Juyter notebook containing Python script for running machine learning classifiers (e.g., MLP, kNN, random forest) on the labelled EEG data.
 
 ## Results
 
