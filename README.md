@@ -99,6 +99,4 @@ Also, we initially intended to analyse the data of more than one participant in 
 
 ## Conclusion and acknowledgement
 
-The BHS team hope you will find this template helpful in documenting your project. Developping this template was a group effort, and benefitted from the feedback and ideas of all BHS students over the years.
-
-You can also make submit your project to neurolibre https://neurolibre.org/. It is a preprint server for interactive data analyses. It is tailored for publishing interactive neuroscience notebooks that can seamlessly integrate data, text, code and figures.The submission instructions can be found here https://docs.neurolibre.org/en/latest/index.html and the jupyter book docs there https://jupyterbook.org/intro.html.
+We humbly thank the Brainhack School Team for organising this fantastic learning journey, as well as all the instructors who developed the learning modules and corresponding video lectures/lessons. We would especially like to thank the Taiwan Hub team (National Taiwan University and National Central University) for all their support and encouragement.
