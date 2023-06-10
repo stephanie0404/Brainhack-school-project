@@ -68,9 +68,9 @@ Also, we initially intended to analyse the data of more than one participant in 
 
 ### Tools we learnt during this project
 
- * **MNE Python** We learnt how to filter raw EEG data during the preprocessing stage, as well as how to import EEG data even if not in a recognised standard raw format.
- * **Github workflow-** We got well-acquainted with using Git via the Bash terminal, and also some related tools like Datalad and Git LFS (Large File System).
- * **Bash Terminal** We gained a good understanding of how to use the Bast erminal in lieu of File Explorer (Windows)/Finder (Mac).
+ * **MNE Python**: We learnt how to filter raw EEG data during the preprocessing stage, as well as how to import EEG data even if not in a recognised standard raw format.
+ * **Github workflow**: We got well-acquainted with using Git via the Bash terminal, and also some related tools like Datalad and Git LFS (Large File System).
+ * **Bash Terminal**: We gained a good understanding of how to use the Bast erminal in lieu of File Explorer (Windows)/Finder (Mac).
 
 ### Results
 
