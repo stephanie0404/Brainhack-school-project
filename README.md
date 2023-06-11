@@ -3,7 +3,7 @@
 ---
 type: "project" # DON'T TOUCH THIS ! :)
 date: "2023-06-10" # Date your first upload your project.
-# Title of your project (we like creative title)
+# Title of your project
 title: "Predicting feedback perception in an online language learning task using EEG and machine learning"
 
 # List the names of the collaborators within the [ ]. If alone, simple put your name within []
@@ -92,6 +92,22 @@ Also, we initially intended to analyse the data of more than one participant in 
 <img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/sensors_montage.png" alt="EEG cap sensor positions" width="300"> EEG cap sensor positions.
 
 ##### Machine Learning
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/feature_importance_randomforest.png" alt="Feature Importance (Random Forest)" width="300"> Feature Importance (Random Foreest)
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_randomforest.png" alt="Confusion Matrix (Random Forest)" width="300">
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/feature_importance_knn.png" alt="Feature Importance (kNN)" width="300">
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_knn.png" alt="Confusion Matrix (kNN)" width="300">
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/feature_importance_logit.png" alt="Feature Importance (Logit)" width="300">
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_logit.png" alt="Confusion Matrix (Logit)" width="300">
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/feature_importance_mlp.png" alt="Feature Importance (Multilayer Perceptron)" width="300">
+
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_mlp.png" alt="Confusion Matrix (Multilayer Perceptron)" width="300">
 
 #### Discussion
 
