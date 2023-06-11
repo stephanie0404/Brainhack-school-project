@@ -64,7 +64,7 @@ At the end of this project, these files will be available:
 
 ### Progress overview
 
-At first, we thought preprocessing the data would be a simple matter. However, we quickly realised that the OpenBCI EEG format (formatted as a .txt file) is not a standard raw EEG format that could be easily imported in MNE Python. Solving this problem caused us some delays, but we eventually came up with a custom script to import the data in MNE Python. Another peculiarity we observed was that the OpenBCI set-up only consisted of 8 electrodes, as oppposed to the standard 32 channels.
+At first, we thought preprocessing the data would be a simple matter. However, we quickly realised that the OpenBCI EEG format (formatted as a .txt file) is not a standard raw EEG format that could be easily imported in MNE Python. Solving this problem caused us some delays, but we eventually came up with a custom script to import the data in MNE Python. Another peculiarity we observed was that the OpenBCI set-up only consisted of 8 electrodes, as opposed to the standard 32 channels.
 
 Also, we initially intended to analyse the data of more than one participant in the data set, but realised that even data from one participant (recorded over about 58 minutes) was very large, and likely more than sufficient to train an ML model. The large size also delayed our work due to the long wait times when processing the data, sometimes leading to crashes which force us to start the process over again until it reaches fruition (an unfortunate symptom of running such analyses on weak personal machines).
 
@@ -79,19 +79,26 @@ Also, we initially intended to analyse the data of more than one participant in 
 #### Figures and Plots
 
 ##### Preprocessing
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_pre_filtered.png" alt="Unfiltered Cz Channel during 1 second epoch" width="300"> Unfiltered Cz Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_pre_filtered.png" alt="Unfiltered Cz Channel during 1 second epoch" width="300"> 
+Unfiltered Cz Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_filtered.jpg" alt="Filtered Cz Channel during 1 second epoch" width="300"> Filtered Cz Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_filtered.jpg" alt="Filtered Cz Channel during 1 second epoch" width="300"> 
+Filtered Cz Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_pre_filtered.png" alt="Unfiltered F3 Channel during 1 second epoch" width="300"> Unfiltered F3 Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_pre_filtered.png" alt="Unfiltered F3 Channel during 1 second epoch" width="300"> 
+Unfiltered F3 Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_filtered.jpg" alt="Filtered F3 Channel during 1 second epoch" width="300"> Filtered F3 Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_filtered.jpg" alt="Filtered F3 Channel during 1 second epoch" width="300"> 
+Filtered F3 Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/pre_filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the unfiltered EEG" height="250"> Power Spectral Density (PSD) plot for the unfiltered EEG.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/pre_filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the unfiltered EEG" height="250"> 
+Power Spectral Density (PSD) plot for the unfiltered EEG.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the filtered EEG" height="250"> Power Spectral Density (PSD) plot for the filtered EEG.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the filtered EEG" height="250"> 
+Power Spectral Density (PSD) plot for the filtered EEG.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/sensors_montage.png" alt="EEG cap sensor positions" width="300"> EEG cap sensor positions.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/sensors_montage.png" alt="EEG cap sensor positions" width="300"> 
+EEG cap sensor positions.
 
 ##### Machine Learning
 
