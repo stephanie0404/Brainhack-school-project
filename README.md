@@ -113,8 +113,19 @@ Also, we initially intended to analyse the data of more than one participant in 
 
 #### Discussion
 
+The full results can be viewed in the Jupyter notebook <a href="https://github.com/stephanie0404/Brainhack-school-project/blob/main/scripts/ml_eeg_classifier.ipynb" target="blank">ml_eeg_classifier</a> in our GitHub repository. We breifly summarise the accuracy rates attained by each model below.
 
+Random Forest:			0.8923478119142694
+Logistic Regression:		0.5955504848830576
+k-Nearest Neighbours:		0.9759595794963736
+Multilayer Perceptron:		0.6984760818189226
+
+A <i>prima facie</i> look will show that the k-Nearest Neighbours (kNN) classifier achieved the highest performance in accurately predicting whether the participant was looking at positive or negative feedback based on the EEG data. However, it is possible that the high accuracy rate may be due to overfitting, and more sophisticated evaluation metrics will need to be consulted (unfortunately, time limits prevent us from doing so here).
+
+Future directions for this project could involve exploring more advanced machine learning techniques, such as deep learning models, to capture complex patterns in the EEG data. Additionally, incorporating other modalities available in the multimodal dataset, such as eye-tracking or cursor movements, could potentially enhance the prediction accuracy and provide a more comprehensive understanding of the cognitive processes during language learning.
 
 ## Conclusion and acknowledgement
+
+In summary, this project provides a starting point for applying machine learning methods to EEG data analysis in the context of language learning. The results highlight the potential of using EEG features to predict certain cognitive tasks, but further research is required to refine this (admittedly) very coarse implementation and address the aforementioned limitations.
 
 We humbly thank the Brainhack School Team for organising this fantastic learning journey, as well as all the instructors who developed the learning modules and corresponding video lectures/lessons. We would especially like to thank the Taiwan Hub team (National Taiwan University and National Central University) for all their support and encouragement.
