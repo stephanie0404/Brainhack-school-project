@@ -33,7 +33,9 @@ image: "https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project
 
 ### Background
 
+In recent years, new apps and products have been introduced based on the idea that machine learning techniques could be applied to EEG brainwaves in order to decipher a person's thoughts and generate statistics about the different kinds of thoughts a person has in a day (e.g, <a href="https://neurosity.co/" target="blank">Neurosity</a>; see also <a href="https://futurism.com/the-byte/ai-draws-decodes-brainwaves" target="">Houser, 2019</a>; <a href="https://www.youtube.com/watch?v=-HYbFm67Gs8" target="blank">Fireship, 2023</a>). Our motivation is to attempt to implement our own simple machine learning analysis on raw EEG data to discern cognitive activity, especially that related to language. We selected a dataset containing EEG data recorded while participants completed language learning tasks in the online platform, Duolingo (see "Data" below). Our main objectives in this project were to develop a pipeline for analysing EEG data (OpenBCI format) using open source tools like MNE Python and apply machine learning methods to the analysis. Our personal learning objectives were to make ourselves more familiar with EEG data analysis, the Python programming language and corresponding workflows, and other open source tools used in neurosciencce research.
 
+The main question we asked in this project was: How can we use machine learning techniques to identify, based on EEG data, if the participant was receiving positive feedback (they got the learning task correct) or negative feedback (they got the learning task wrong) from Duolingo?
 
 ### Tools
 
