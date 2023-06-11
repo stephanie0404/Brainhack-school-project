@@ -79,52 +79,48 @@ Also, we initially intended to analyse the data of more than one participant in 
 #### Figures and Plots
 
 ##### Preprocessing
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_pre_filtered.png" alt="Unfiltered Cz Channel during 1 second epoch" width="300"> 
-Unfiltered Cz Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_pre_filtered.png" alt="Unfiltered Cz Channel during 1 second epoch" width="300"> Unfiltered Cz Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_filtered.jpg" alt="Filtered Cz Channel during 1 second epoch" width="300"> 
-Filtered Cz Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/Cz_sample_filtered.jpg" alt="Filtered Cz Channel during 1 second epoch" width="300"> Filtered Cz Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_pre_filtered.png" alt="Unfiltered F3 Channel during 1 second epoch" width="300"> 
-Unfiltered F3 Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_pre_filtered.png" alt="Unfiltered F3 Channel during 1 second epoch" width="300"> Unfiltered F3 Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_filtered.jpg" alt="Filtered F3 Channel during 1 second epoch" width="300"> 
-Filtered F3 Channel during 1 second epoch.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/F3_sample_filtered.jpg" alt="Filtered F3 Channel during 1 second epoch" width="300"> Filtered F3 Channel during 1 second epoch.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/pre_filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the unfiltered EEG" height="250"> 
-Power Spectral Density (PSD) plot for the unfiltered EEG.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/pre_filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the unfiltered EEG" height="250"> Power Spectral Density (PSD) plot for the unfiltered EEG.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the filtered EEG" height="250"> 
-Power Spectral Density (PSD) plot for the filtered EEG.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/filtered_EEG_psd.png" alt="Power Spectral Density (PSD) plot for the filtered EEG" height="250"> Power Spectral Density (PSD) plot for the filtered EEG.
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/sensors_montage.png" alt="EEG cap sensor positions" width="300"> 
-EEG cap sensor positions.
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/sensors_montage.png" alt="EEG cap sensor positions" width="300"> EEG cap sensor positions.
 
 ##### Machine Learning
 
 <img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/feature_importance_randomforest.png" alt="Feature Importance (Random Forest)" width="300"> Feature Importance (Random Foreest)
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_randomforest.png" alt="Confusion Matrix (Random Forest)" width="300">
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_randomforest.png" alt="Confusion Matrix (Random Forest)" width="300"> Confusion Matrix (Random Forest)
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/feature_importance_knn.png" alt="Feature Importance (kNN)" width="300">
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/feature_importance_knn.png" alt="Feature Importance (kNN)" width="300"> Feature Importance (kNN)
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_knn.png" alt="Confusion Matrix (kNN)" width="300">
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_knn.png" alt="Confusion Matrix (kNN)" width="300"> Confusion Matrix (kNN)
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/feature_importance_logit.png" alt="Feature Importance (Logit)" width="300">
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/feature_importance_logit.png" alt="Feature Importance (Logit)" width="300"> Feature Importance (Logit)
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_logit.png" alt="Confusion Matrix (Logit)" width="300">
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_logit.png" alt="Confusion Matrix (Logit)" width="300"> Confusion Matrix (Logit)
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/feature_importance_mlp.png" alt="Feature Importance (Multilayer Perceptron)" width="300">
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/feature_importance_mlp.png" alt="Feature Importance (Multilayer Perceptron)" width="300"> Feature Importance (Multilayer Perceptron)
 
-<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_mlp.png" alt="Confusion Matrix (Multilayer Perceptron)" width="300">
+<img src="https://raw.githubusercontent.com/stephanie0404/Brainhack-school-project/main/pictures/cm_mlp.png" alt="Confusion Matrix (Multilayer Perceptron)" width="300"> Confusion Matrix (Multilayer Perceptron)
 
 #### Discussion
 
-The full results can be viewed in the Jupyter notebook <a href="https://github.com/stephanie0404/Brainhack-school-project/blob/main/scripts/ml_eeg_classifier.ipynb" target="blank">ml_eeg_classifier</a> in our GitHub repository. We breifly summarise the accuracy rates attained by each model below.
+The full results can be viewed in the Jupyter notebook <a href="https://github.com/stephanie0404/Brainhack-school-project/blob/main/scripts/ml_eeg_classifier.ipynb" target="blank">ml_eeg_classifier</a> in our GitHub repository. We briefly summarise the accuracy rates attained by each model below.
 
 Random Forest:			0.8923478119142694
+
 Logistic Regression:		0.5955504848830576
+
 k-Nearest Neighbours:		0.9759595794963736
+
 Multilayer Perceptron:		0.6984760818189226
 
 A <i>prima facie</i> look will show that the k-Nearest Neighbours (kNN) classifier achieved the highest performance in accurately predicting whether the participant was looking at positive or negative feedback based on the EEG data. However, it is possible that the high accuracy rate may be due to overfitting, and more sophisticated evaluation metrics will need to be consulted (unfortunately, time limits prevent us from doing so here).
